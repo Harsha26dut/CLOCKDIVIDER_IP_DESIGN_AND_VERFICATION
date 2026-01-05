@@ -33,8 +33,12 @@ A **Clock Generator** is the heartbeat of any digital system. In this project, t
 ## 🔗 Documentation & Professional Connect
 For the full project documentation, including detailed waveforms and architecture diagrams, please visit:
 
-* **Complete Documentation (LinkedIn):** [Your LinkedIn Post Link Here]
-* **LinkedIn Profile:** [Your LinkedIn Profile Link Here]
+* **Complete Documentation (LinkedIn):** [www.linkedin.com/in/saikumarkonapala
+
+]
+* **LinkedIn Profile:** [www.linkedin.com/in/saikumarkonapala
+
+]
 
 ## 🔮 Future Scope
 1. **Fractional Division:** Implementing a fractional-N divider to achieve higher precision for non-standard clock frequencies.
