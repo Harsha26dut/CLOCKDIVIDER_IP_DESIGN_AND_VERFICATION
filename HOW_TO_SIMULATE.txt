@@ -1,0 +1,22 @@
+==========================================================
+HOW TO TEST WITH CUSTOM SYSTEM CLOCK FREQUENCIES
+==========================================================
+
+This IP is designed to be flexible. To test the Baud Rate 
+Generator with your specific system clock:
+
+1. In 'rtl/baud_gen_design.v':
+   Locate the parameter: parameter SYS_CLK_FREQ = 50000000;
+   Change '50000000' to your desired frequency in Hz.
+
+2. In 'tb/baud_gen_tb.v':
+   Ensure the localparam/parameter SYS_CLK_FREQ matches 
+   the design value to ensure the verification 
+   checkers align correctly.
+
+3. Randomized Testing:
+   The testbench is configured to randomize the BAUD_RATE 
+   input. This ensures the divider logic is robust across 
+   various standard and non-standard baud requirements.
+
+Simply re-run your simulation after these changes!
