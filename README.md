@@ -33,8 +33,8 @@ A **Clock Generator** is the heartbeat of any digital system. In this project, t
 ## 🔗 Documentation & Professional Connect
 For the full project documentation, including detailed waveforms and architecture diagrams, please visit:
 
-* **Complete Documentation (LinkedIn):** [www.linkedin.com/in/saikumarkonapala
-
+* **Complete Documentation (LinkedIn):** [[www.linkedin.com/in/saikumarkonapala
+](https://www.linkedin.com/posts/saikumarkonapala_design-verification-of-frequency-agile-activity-7413816233730600960-_kxO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFkpLvUBkmtYwqUIh5d25WFZXAZ6izhfEIA)
 ]
 * **LinkedIn Profile:** [www.linkedin.com/in/saikumarkonapala
 
